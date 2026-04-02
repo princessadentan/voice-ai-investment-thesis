@@ -27,23 +27,23 @@ Three things are converging:
 
 **Three investment themes**
 
-**01. Regulated Agent Assist**
+**01. Regulated Agent Assist:**
 In high-penalty workflows like healthcare prior auth, insurance claims, and financial disputes, voice AI's role is to assist rather than replace. Tools that boost accuracy and compliance while keeping humans in control will see rapid adoption.
 
-**02. Sovereign-Grade Deployment**
+**02. Sovereign-Grade Deployment:**
 As voice AI moves into the core of regulated workflows, buyers demand deployment flexibility — zero-egress cloud, sovereign infrastructure, or on-premise — without losing features. Privacy and deployment choice are the wedge.
 
-**03. Voice-First Finance in Emerging Markets**
+**03. Voice-First Finance in Emerging Markets:**
 Multilingual models now handle code-switching, accents, and low-quality phone audio well enough to power high-stakes financial conversations in markets like East and West Africa. The opportunity is large and undercapitalized.
 
 ---
 
-**Key players mapped**
+**Key players mapped:**
 Covers the full stack from foundational models to vertical applications — including ElevenLabs, Vapi, Voiceflow, Abridge, Nabla, Observe.ai, Sameday AI, Hippocratic AI, HappyRobot, and Lengo.ai.
 
 ---
 
-**About**
+**About:**
 Independent research at the intersection of AI investing and emerging markets. Written with a VC lens, informed by product experience.
 
 📎 [LinkedIn](https://linkedin.com/in/princess-adentan-85989199)
