@@ -11,9 +11,8 @@ The reality is, voice is graduating from finicky consumer novelty to workflow in
 
 ---
 
-**Thesis in one line**
-The winners will be vertical applications that act in core systems, hit sub-250ms latency, and deliver 
-measurable, audited business outcomes.
+**Thesis TL;DR**
+The voice winners will be vertical applications that act in core systems, hit sub-250ms latency, and deliver measurable, audited business outcomes.
 
 ---
 
